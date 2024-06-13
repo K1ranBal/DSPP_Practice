@@ -1,6 +1,6 @@
 # DSPP_Practise
 
-#Headings
+# Headings
 This is my practise page
-##Headings 2
-###Headings 3
+## Headings 2
+### Headings 3
