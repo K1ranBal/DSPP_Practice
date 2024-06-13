@@ -11,3 +11,7 @@ This is my practice page
 # URL Link
 [URL name] (https://www.markdownguide.org/cheat-sheet/)
 
+# Bring in uploaded images
+
+![Image] (https://github.com/K1ranBal/DSPP_Practice/blob/main/folder_1/histogram-example-2.png)
+
